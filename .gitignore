@@ -1,6 +1,19 @@
 # Compiled class file
 *.class
-
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditior.xml
+/.idea/assetWizardSetting.xml
+.DS_Stpre
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
 # Log file
 *.log
 
