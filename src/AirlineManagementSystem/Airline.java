@@ -80,4 +80,3 @@ public class Airline extends JFrame{
         frame.setVisible(true);
     }
 }
-s

@@ -11,7 +11,7 @@ public class AddCustomer extends JFrame{ //Third Frame
 
     JTextField textField,textField_1,textField_2,textField_3,textField_4,textField_5,textField_6;
 
-    public Add_Customer(){
+    public AddCustomer(){
         getContentPane().setForeground(Color.BLUE);
         getContentPane().setBackground(Color.WHITE);
         setTitle("ADD CUSTOMER DETAILS");
@@ -161,6 +161,6 @@ public class AddCustomer extends JFrame{ //Third Frame
     }
 
     public static void main(String[] args){
-        new Add_Customer();
+        new AddCustomer();
     }
 }
