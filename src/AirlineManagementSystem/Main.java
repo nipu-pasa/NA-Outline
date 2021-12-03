@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {}
       /*  IT Projects > Java Projects List >
-                                            Airlines Reservation System
+                                                                Airlines Reservation System
         The web based “Airline Reservation System” project is an attempt to stimulate the basic concepts of airline reservation system. The system enables the customer to do the things such as search for airline flights for two travel cities on a specified date, choose a flight based on the details, reservation of flight and cancellation of reservation.
         The system allows the airline passenger to search for flights that are available between the two travel cities, namely the “Departure city” and “Arrival city” for a particular departure and arrival dates. The system displays all the flight’s details such as flight no, name, price and duration of journey etc.
         After search the system display list of available flights and allows customer to choose a particular flight. Then the system checks for the availability of seats on the flight. If the seats are available then the system allows the passenger to book a seat. Otherwise it asks the user to choose another flight.
