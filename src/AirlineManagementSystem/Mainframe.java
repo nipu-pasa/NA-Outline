@@ -78,7 +78,7 @@ public class Mainframe extends JFrame{
         ReservationDetails.addActionListener(new ActionListener(){
             public void actionPerformed(ActionEvent ae){
                 try {
-                    new Add_Customer();
+                    new AddCustomer();
                 } catch (Exception e) {
                     e.printStackTrace();
                 }
