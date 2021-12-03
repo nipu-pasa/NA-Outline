@@ -15,5 +15,6 @@ public class Main {
         SCOPE
         The name of the software is “AIRLINE RESERVATION SYSTEM”.
         This software provides options for viewing different flights available with different timings for a particular date and provides customers with the facility to book a ticket, modify or cancel a particular reservation but it does not provide the customers with details of cost of the ticket and it does not allow the customer to modify a particular part of his reservation and he/she can modify all his details.
+
     }
 */}
